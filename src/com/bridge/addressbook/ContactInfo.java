@@ -47,8 +47,7 @@ public class ContactInfo {
 
 		@Override
 			public String toString() {
-	
-		return ("firstname is" +firstname+ ", lastname is" +lastname+ ", address is" +address+ ", zip is" +zip+ ",Mobileno is" +mobileNo);
-			}
-				
+	return("firstname is" +firstname+ ", lastname is" +lastname+ ", address is" +address+ ", zip is" +zip+ ",Mobileno is" +mobileNo);
+		}
+		
 }
